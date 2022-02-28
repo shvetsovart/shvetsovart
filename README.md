@@ -2,9 +2,16 @@
 
 My name is Artyom Shvetsov.
 
-🎓 I'm a first year Software Engineering student at ITMO (📍Saint-Petersburg, Russia)
+🎓 I'm a first year Computer Science student at ITMO (📍Saint-Petersburg, Russia)
 
 📫 How to reach me: shvetsovart55@gmail.com
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning everything that I see
+- 🤔 I’m looking for help with getting internships
+- 💬 Ask me about cooking
+- 😄 Pronouns: pika/chu
+- ⚡ Fun fact: Nothing fun
 
 [![shvetsovart's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvetsovart)](https://github.com/anuraghazra/github-readme-stats)
 
