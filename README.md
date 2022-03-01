@@ -3,6 +3,7 @@
 My name is Artyom Shvetsov.
 
 🎓 I'm a first year Computer Science student at ITMO (📍Saint-Petersburg, Russia), 
+
 ⚡ Social influencer, genius, winner
 
 📫 How to reach me: shvetsovart55@gmail.com
