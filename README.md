@@ -7,11 +7,10 @@ My name is Artyom Shvetsov.
 
 📫 How to reach me: shvetsovart55@gmail.com
 
-- 🔭 I’m currently keep grinding 
-- 🌱 I’m currently learning everything that I see
+- 🌱 I’m currently learning everything that I see, especially C, C++, Java, Frontend
 - 🤔 I’m looking for help with getting internships
 - 💬 Ask me about cooking
-- 😄 Pronouns: pika/chu
+- 😄 Pronouns: she/him
 - ⚡ Fun fact: Nothing fun
 - 📧 [Resume](https://drive.google.com/file/d/1z3thTiB2s0zuVLkiPrWnK_8R9QosOkCD/view?usp=sharing "Resume")
 
