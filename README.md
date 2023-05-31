@@ -14,8 +14,6 @@ My name is Artyom Shvetsov.
 - ⚡ Fun fact: Nothing fun
 - 📧 [Resume](https://drive.google.com/file/d/1z3thTiB2s0zuVLkiPrWnK_8R9QosOkCD/view?usp=sharing "Resume")
 
-[![shvetsovart's GitHub stats](https://github-readme-stats.vercel.app/api?username=shvetsovart)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **shvetsovart/shvetsovart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
