@@ -7,7 +7,7 @@ My name is Artyom Shvetsov.
 
 📫 How to reach me: shvetsovart55@gmail.com
 
-- 🌱 I’m currently learning everything that I see, especially C, C++, Java, Frontend
+- 🌱 I’m currently learning everything that I see, especially Java, Kotlin, Frontend
 - 🤔 I’m looking for help with getting internships
 - 💬 Ask me about cooking
 - 😄 Pronouns: she/him
