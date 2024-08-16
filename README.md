@@ -2,15 +2,15 @@
 
 My name is Artyom Shvetsov.
 
-🎓 I'm a second year Computer Science student at ITMO (📍Saint-Petersburg, Russia),    
-⚡ Social influencer, genius, winner
+🎓 I'm a third year Computer Science student at ITMO (📍Saint-Petersburg, Russia),    
+⚡ Social influencer, genius, winner.
 
 📫 How to reach me: shvetsovart55@gmail.com
 
 - 🌱 I’m currently learning everything that I see, especially Java, Kotlin, Frontend
 - 🤔 I’m looking for help with getting internships
 - 💬 Ask me about cooking
-- 😄 Pronouns: he/shim
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Something fun
 - 📧 [Resume](https://drive.google.com/file/d/1z3thTiB2s0zuVLkiPrWnK_8R9QosOkCD/view?usp=sharing "Resume")
 
