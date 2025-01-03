@@ -11,7 +11,7 @@ My name is Artyom Shvetsov.
 - 💬 Ask me about cooking
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Something fun
-- 📧 [Resume](https://drive.google.com/file/d/1o19124Ok982p7xRMwZ_rPV_FEthtAagv/view?usp=sharing "Resume")
+- 📧 [Resume](https://drive.google.com/file/d/1kskVXGUusoc2NyP4pjjRIYfZndqq-A1v/view?usp=sharing "Resume")
 
 <!--
 **shvetsovart/shvetsovart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
